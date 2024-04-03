@@ -1,0 +1,28 @@
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'poppins',sans-serif;
+}
+body{
+  background-color: lightskyblue;
+  width: 100%;
+}
+header{
+  /*height: 100vh;*/
+/* background-color: black;*/
+ width: 100%;
+ display: flex;
+ justify-content: space-between;
+ margin:15px 25px;
+ padding: 10px 20px;
+
+}
+header .logo{
+  font-size: 20px;
+  font-weight: bold;
+}
+header .logo a{
+  color: white;
+ 
+}
